@@ -1,0 +1,7 @@
+  test.c
+D:\Users\mifyang\project\cpp\test\test.c(123,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\mifyang\project\cpp\test\test.c(204,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\mifyang\project\cpp\test\test.c(215,20): warning C4018: “<=”: 有符号/无符号不匹配
+D:\Users\mifyang\project\cpp\test\test.c(242,12): warning C4047: “return”:“char *”与“char [1][20]”的间接级别不同
+D:\Users\mifyang\project\cpp\test\test.c(255,40): warning C4047: “=”:“char (*)[20]”与“char *”的间接级别不同
+  test.vcxproj -> D:\Users\mifyang\project\cpp\cpp01\Debug\test.exe

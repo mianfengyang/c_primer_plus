@@ -1,0 +1,8 @@
+  c_primer_plus-08.c
+E:\project\c_primer-plus\cpp08-字符输入输出和输入验证\c_primer_plus-08.c(87,19): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  正在生成代码
+  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  cpp08-字符输入输出和输入验证.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\Release\cpp08-字符输入输出和输入验证.exe

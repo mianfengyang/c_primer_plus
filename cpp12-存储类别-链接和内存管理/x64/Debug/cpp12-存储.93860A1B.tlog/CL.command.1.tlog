@@ -1,0 +1,4 @@
+^E:\PROJECT\CPP\CPP12-存储类别-链接和内存管理\DICEROLL.C
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC142.PDB" /Gd /TC /FC E:\PROJECT\CPP\CPP12-存储类别-链接和内存管理\DICEROLL.C
+^E:\PROJECT\CPP\CPP12-存储类别-链接和内存管理\CPP12.C
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC142.PDB" /Gd /TC /FC E:\PROJECT\CPP\CPP12-存储类别-链接和内存管理\CPP12.C

@@ -1,0 +1,7 @@
+  c_primer_plus-09.c
+  hotel.c
+  正在生成代码...
+D:\Users\frank\Documents\c_primer-plus\cpp09-函数\c_primer_plus-09.c(282,6): warning C4101: “i”: 未引用的局部变量
+D:\Users\frank\Documents\c_primer-plus\cpp09-函数\c_primer_plus-09.c(247): warning C4715: “get_index”: 不是所有的控件路径都返回值
+  LINK : 没有找到 D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\cpp09-函数.exe 或上一个增量链接没有生成它；正在执行完全链接
+  cpp09-函数.vcxproj -> D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\cpp09-函数.exe

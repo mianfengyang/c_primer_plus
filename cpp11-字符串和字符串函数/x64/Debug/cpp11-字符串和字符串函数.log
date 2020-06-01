@@ -1,0 +1,11 @@
+  cpp11.c
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(343,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(415,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(507,11): warning C4098: “remove_blank_on_start”:“void”函数返回值
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(525,11): warning C4098: “remove_blank_on_end”:“void”函数返回值
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(528,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(740,25): warning C4047: “函数”:“const char *”与“char [10][50]”的间接级别不同
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(740,25): warning C4024: “strlen”: 形参和实参 1 的类型不同
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(740,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\cpp\cpp11-字符串和字符串函数\cpp11.c(774): warning C4715: “cpp11_13_15”: 不是所有的控件路径都返回值
+  cpp11-字符串和字符串函数.vcxproj -> E:\project\cpp\cpp01-初识C语言\x64\Debug\cpp11-字符串和字符串函数.exe

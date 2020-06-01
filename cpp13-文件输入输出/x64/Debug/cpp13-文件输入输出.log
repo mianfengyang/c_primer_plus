@@ -1,0 +1,5 @@
+﻿  cpp13.c
+E:\project\cpp\cpp13-文件输入输出\cpp13.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\project\cpp\cpp13-文件输入输出\cpp13.c(155,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\cpp\cpp13-文件输入输出\cpp13.c(165,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  cpp13-文件输入输出.vcxproj -> E:\project\cpp\cpp01-初识C语言\x64\Debug\cpp13-文件输入输出.exe

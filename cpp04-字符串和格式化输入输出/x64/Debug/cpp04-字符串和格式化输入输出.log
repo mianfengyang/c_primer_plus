@@ -1,0 +1,12 @@
+  c_primer_plus-04.c
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(13,1): warning C4005: “PAGES”: 宏重定义
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(11): message : 参见“PAGES”的前一个定义
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(26,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(27,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(57,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(58,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(140,9): warning C4477: “printf”: 格式字符串“%.le”需要类型“double”的参数，但可变参数 3 拥有了类型“long”
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(140,9): warning C4477: “printf”: 格式字符串“%.le”需要类型“double”的参数，但可变参数 4 拥有了类型“long”
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(142,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“double”
+E:\project\c_primer-plus\cpp04-字符串和格式化输入输出\c_primer_plus-04.c(142,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“double”
+  cpp04-字符串和格式化输入输出.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\x64\Debug\cpp04-字符串和格式化输入输出.exe

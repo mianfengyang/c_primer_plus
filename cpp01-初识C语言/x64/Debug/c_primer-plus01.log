@@ -1,0 +1,8 @@
+  cpp1_1.c
+  cpp1_13.c
+E:\project\cpp\cpp01\cpp1_13.c(11,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  cpp1_2.c
+  c_primer_plus-01.c
+E:\project\cpp\cpp01\c_primer_plus-01.c(14,9): warning C4013: “cpp1_13”未定义；假设外部返回 int
+  正在生成代码...
+  c_primer-plus01.vcxproj -> E:\project\cpp\cpp01\x64\Debug\cpp01.exe
