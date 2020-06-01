@@ -1,18 +1,18 @@
-  c_primer_plus-04.c
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(13,1): warning C4005: ¡°PAGES¡±: ºêÖØ¶¨Òå
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(11): message : ²Î¼û¡°PAGES¡±µÄÇ°Ò»¸ö¶¨Òå
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(27,27): warning C4244: ¡°=¡±: ´Ó¡°double¡±×ª»»µ½¡°float¡±£¬¿ÉÄÜ¶ªÊ§Êı¾İ
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(57,29): warning C4244: ¡°=¡±: ´Ó¡°double¡±×ª»»µ½¡°float¡±£¬¿ÉÄÜ¶ªÊ§Êı¾İ
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(58,28): warning C4244: ¡°=¡±: ´Ó¡°double¡±×ª»»µ½¡°float¡±£¬¿ÉÄÜ¶ªÊ§Êı¾İ
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(140,9): warning C4477: ¡°printf¡±: ¸ñÊ½×Ö·û´®¡°%.le¡±ĞèÒªÀàĞÍ¡°double¡±µÄ²ÎÊı£¬µ«¿É±ä²ÎÊı 3 ÓµÓĞÁËÀàĞÍ¡°long¡±
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(140,9): warning C4477: ¡°printf¡±: ¸ñÊ½×Ö·û´®¡°%.le¡±ĞèÒªÀàĞÍ¡°double¡±µÄ²ÎÊı£¬µ«¿É±ä²ÎÊı 4 ÓµÓĞÁËÀàĞÍ¡°long¡±
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(142,9): warning C4477: ¡°printf¡±: ¸ñÊ½×Ö·û´®¡°%ld¡±ĞèÒªÀàĞÍ¡°long¡±µÄ²ÎÊı£¬µ«¿É±ä²ÎÊı 1 ÓµÓĞÁËÀàĞÍ¡°double¡±
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(142,9): warning C4477: ¡°printf¡±: ¸ñÊ½×Ö·û´®¡°%ld¡±ĞèÒªÀàĞÍ¡°long¡±µÄ²ÎÊı£¬µ«¿É±ä²ÎÊı 2 ÓµÓĞÁËÀàĞÍ¡°double¡±
+ï»¿  c_primer_plus-04.c
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(13,1): warning C4005: â€œPAGESâ€: å®é‡å®šä¹‰
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(11): message : å‚è§â€œPAGESâ€çš„å‰ä¸€ä¸ªå®šä¹‰
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(27,27): warning C4244: â€œ=â€: ä»â€œdoubleâ€è½¬æ¢åˆ°â€œfloatâ€ï¼Œå¯èƒ½ä¸¢å¤±æ•°æ®
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(57,29): warning C4244: â€œ=â€: ä»â€œdoubleâ€è½¬æ¢åˆ°â€œfloatâ€ï¼Œå¯èƒ½ä¸¢å¤±æ•°æ®
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(58,28): warning C4244: â€œ=â€: ä»â€œdoubleâ€è½¬æ¢åˆ°â€œfloatâ€ï¼Œå¯èƒ½ä¸¢å¤±æ•°æ®
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(140,9): warning C4477: â€œprintfâ€: æ ¼å¼å­—ç¬¦ä¸²â€œ%.leâ€éœ€è¦ç±»å‹â€œdoubleâ€çš„å‚æ•°ï¼Œä½†å¯å˜å‚æ•° 3 æ‹¥æœ‰äº†ç±»å‹â€œlongâ€
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(140,9): warning C4477: â€œprintfâ€: æ ¼å¼å­—ç¬¦ä¸²â€œ%.leâ€éœ€è¦ç±»å‹â€œdoubleâ€çš„å‚æ•°ï¼Œä½†å¯å˜å‚æ•° 4 æ‹¥æœ‰äº†ç±»å‹â€œlongâ€
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(142,9): warning C4477: â€œprintfâ€: æ ¼å¼å­—ç¬¦ä¸²â€œ%ldâ€éœ€è¦ç±»å‹â€œlongâ€çš„å‚æ•°ï¼Œä½†å¯å˜å‚æ•° 1 æ‹¥æœ‰äº†ç±»å‹â€œdoubleâ€
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(142,9): warning C4477: â€œprintfâ€: æ ¼å¼å­—ç¬¦ä¸²â€œ%ldâ€éœ€è¦ç±»å‹â€œlongâ€çš„å‚æ•°ï¼Œä½†å¯å˜å‚æ•° 2 æ‹¥æœ‰äº†ç±»å‹â€œdoubleâ€
   cpp4_8.c
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\c_primer_plus-04.c(164,10): warning C4013: ¡°cpp4_8_8¡±Î´¶¨Òå£»¼ÙÉèÍâ²¿·µ»Ø int
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\cpp4_8.c(56,50): warning C4244: ¡°=¡±: ´Ó¡°double¡±×ª»»µ½¡°float¡±£¬¿ÉÄÜ¶ªÊ§Êı¾İ
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\cpp4_8.c(81,1): warning C4305: ¡°³õÊ¼»¯¡±: ´Ó¡°double¡±µ½¡°float¡±½Ø¶Ï
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\cpp4_8.c(89,1): warning C4305: ¡°³õÊ¼»¯¡±: ´Ó¡°double¡±µ½¡°const float¡±½Ø¶Ï
-  ÕıÔÚÉú³É´úÂë...
-E:\project\c_primer-plus\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\cpp4_8.c(90,1): warning C4305: ¡°³õÊ¼»¯¡±: ´Ó¡°double¡±µ½¡°const float¡±½Ø¶Ï
-  cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\Debug\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö.exe
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\c_primer_plus-04.c(164,10): warning C4013: â€œcpp4_8_8â€æœªå®šä¹‰ï¼›å‡è®¾å¤–éƒ¨è¿”å› int
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\cpp4_8.c(56,50): warning C4244: â€œ=â€: ä»â€œdoubleâ€è½¬æ¢åˆ°â€œfloatâ€ï¼Œå¯èƒ½ä¸¢å¤±æ•°æ®
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\cpp4_8.c(81,1): warning C4305: â€œåˆå§‹åŒ–â€: ä»â€œdoubleâ€åˆ°â€œfloatâ€æˆªæ–­
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\cpp4_8.c(89,1): warning C4305: â€œåˆå§‹åŒ–â€: ä»â€œdoubleâ€åˆ°â€œconst floatâ€æˆªæ–­
+  æ­£åœ¨ç”Ÿæˆä»£ç ...
+E:\project\c_primer-plus\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\cpp4_8.c(90,1): warning C4305: â€œåˆå§‹åŒ–â€: ä»â€œdoubleâ€åˆ°â€œconst floatâ€æˆªæ–­
+  cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\Debug\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º.exe

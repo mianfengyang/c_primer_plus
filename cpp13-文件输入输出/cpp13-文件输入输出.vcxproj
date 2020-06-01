@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{B5F10861-E76E-402D-B5B5-FBFBD8755BC9}</ProjectGuid>
-    <RootNamespace>cpp13文件输入输出</RootNamespace>
+    <RootNamespace>cpp13鏂囦欢杈撳叆杈撳嚭</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

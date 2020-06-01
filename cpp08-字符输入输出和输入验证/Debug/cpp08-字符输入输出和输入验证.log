@@ -1,4 +1,4 @@
-  c_primer_plus-08.c
-E:\project\c_primer-plus\cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤\c_primer_plus-08.c(89,19): warning C4047: ¡°!=¡±:¡°int¡±Óë¡°void *¡±µÄ¼ä½Ó¼¶±ğ²»Í¬
-E:\project\c_primer-plus\cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤\c_primer_plus-08.c(182,38): warning C4047: ¡°!=¡±:¡°char *¡±Óë¡°int¡±µÄ¼ä½Ó¼¶±ğ²»Í¬
-  cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\Debug\cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤.exe
+ï»¿  c_primer_plus-08.c
+E:\project\c_primer-plus\cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯\c_primer_plus-08.c(89,19): warning C4047: â€œ!=â€:â€œintâ€ä¸â€œvoid *â€çš„é—´æ¥çº§åˆ«ä¸åŒ
+E:\project\c_primer-plus\cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯\c_primer_plus-08.c(182,38): warning C4047: â€œ!=â€:â€œchar *â€ä¸â€œintâ€çš„é—´æ¥çº§åˆ«ä¸åŒ
+  cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\Debug\cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯.exe

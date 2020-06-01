@@ -1,7 +1,7 @@
-  test.c
-D:\Users\mifyang\project\cpp\test\test.c(123,16): warning C4018: ¡°<¡±: ÓÐ·ûºÅ/ÎÞ·ûºÅ²»Æ¥Åä
-D:\Users\mifyang\project\cpp\test\test.c(204,20): warning C4018: ¡°<¡±: ÓÐ·ûºÅ/ÎÞ·ûºÅ²»Æ¥Åä
-D:\Users\mifyang\project\cpp\test\test.c(215,20): warning C4018: ¡°<=¡±: ÓÐ·ûºÅ/ÎÞ·ûºÅ²»Æ¥Åä
-D:\Users\mifyang\project\cpp\test\test.c(242,12): warning C4047: ¡°return¡±:¡°char *¡±Óë¡°char [1][20]¡±µÄ¼ä½Ó¼¶±ð²»Í¬
-D:\Users\mifyang\project\cpp\test\test.c(255,40): warning C4047: ¡°=¡±:¡°char (*)[20]¡±Óë¡°char *¡±µÄ¼ä½Ó¼¶±ð²»Í¬
+ï»¿  test.c
+D:\Users\mifyang\project\cpp\test\test.c(123,16): warning C4018: â€œ<â€: æœ‰ç¬¦å·/æ— ç¬¦å·ä¸åŒ¹é…
+D:\Users\mifyang\project\cpp\test\test.c(204,20): warning C4018: â€œ<â€: æœ‰ç¬¦å·/æ— ç¬¦å·ä¸åŒ¹é…
+D:\Users\mifyang\project\cpp\test\test.c(215,20): warning C4018: â€œ<=â€: æœ‰ç¬¦å·/æ— ç¬¦å·ä¸åŒ¹é…
+D:\Users\mifyang\project\cpp\test\test.c(242,12): warning C4047: â€œreturnâ€:â€œchar *â€ä¸Žâ€œchar [1][20]â€çš„é—´æŽ¥çº§åˆ«ä¸åŒ
+D:\Users\mifyang\project\cpp\test\test.c(255,40): warning C4047: â€œ=â€:â€œchar (*)[20]â€ä¸Žâ€œchar *â€çš„é—´æŽ¥çº§åˆ«ä¸åŒ
   test.vcxproj -> D:\Users\mifyang\project\cpp\cpp01\Debug\test.exe

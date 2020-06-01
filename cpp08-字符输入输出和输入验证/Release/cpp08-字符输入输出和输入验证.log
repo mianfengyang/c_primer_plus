@@ -1,8 +1,8 @@
-  c_primer_plus-08.c
-E:\project\c_primer-plus\cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤\c_primer_plus-08.c(87,19): warning C4047: ¡°!=¡±:¡°int¡±Óë¡°void *¡±µÄ¼ä½Ó¼¶±ğ²»Í¬
-  ÕıÔÚÉú³É´úÂë
+ï»¿  c_primer_plus-08.c
+E:\project\c_primer-plus\cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯\c_primer_plus-08.c(87,19): warning C4047: â€œ!=â€:â€œintâ€ä¸â€œvoid *â€çš„é—´æ¥çº§åˆ«ä¸åŒ
+  æ­£åœ¨ç”Ÿæˆä»£ç 
   2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
-  ÒÑÍê³É´úÂëµÄÉú³É
-  cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\Release\cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤.exe
+  å·²å®Œæˆä»£ç çš„ç”Ÿæˆ
+  cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\Release\cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯.exe

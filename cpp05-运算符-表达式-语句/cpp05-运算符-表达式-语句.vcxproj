@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{4760C6FC-FBB6-4280-9AE0-2DC5E101C079}</ProjectGuid>
-    <RootNamespace>cpp05运算符表达式语句</RootNamespace>
+    <RootNamespace>cpp05杩愮畻绗﹁〃杈惧紡璇彞</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

@@ -1,15 +1,15 @@
-  test.c
-E:\project\cpp\test\test.c(108,9): warning C4477: ¡°printf¡±: ¸ñÊ½×Ö·û´®¡°%d¡±ĞèÒªÀàĞÍ¡°int¡±µÄ²ÎÊı£¬µ«¿É±ä²ÎÊı 1 ÓµÓĞÁËÀàĞÍ¡°size_t¡±
-E:\project\cpp\test\test.c(108,9): message : Çë¿¼ÂÇÔÚ¸ñÊ½×Ö·û´®ÖĞÊ¹ÓÃ¡°%zd¡±
-E:\project\cpp\test\test.c(113,1): warning C4267: ¡°³õÊ¼»¯¡±: ´Ó¡°size_t¡±×ª»»µ½¡°int¡±£¬¿ÉÄÜ¶ªÊ§Êı¾İ
-E:\project\cpp\test\test.c(192,1): warning C4267: ¡°³õÊ¼»¯¡±: ´Ó¡°size_t¡±×ª»»µ½¡°int¡±£¬¿ÉÄÜ¶ªÊ§Êı¾İ
-E:\project\cpp\test\test.c(240,12): warning C4047: ¡°return¡±:¡°char *¡±Óë¡°char [1][20]¡±µÄ¼ä½Ó¼¶±ğ²»Í¬
-E:\project\cpp\test\test.c(253,40): warning C4047: ¡°=¡±:¡°char (*)[20]¡±Óë¡°char *¡±µÄ¼ä½Ó¼¶±ğ²»Í¬
-E:\project\cpp\test\test.c(260,25): warning C4047: ¡°º¯Êı¡±:¡°const char *¡±Óë¡°char [4][10]¡±µÄ¼ä½Ó¼¶±ğ²»Í¬
-E:\project\cpp\test\test.c(260,25): warning C4024: ¡°strlen¡±: ĞÎ²ÎºÍÊµ²Î 1 µÄÀàĞÍ²»Í¬
-E:\project\cpp\test\test.c(260,9): warning C4477: ¡°printf¡±: ¸ñÊ½×Ö·û´®¡°%d¡±ĞèÒªÀàĞÍ¡°int¡±µÄ²ÎÊı£¬µ«¿É±ä²ÎÊı 1 ÓµÓĞÁËÀàĞÍ¡°size_t¡±
-E:\project\cpp\test\test.c(260,9): message : Çë¿¼ÂÇÔÚ¸ñÊ½×Ö·û´®ÖĞÊ¹ÓÃ¡°%zd¡±
-E:\project\cpp\test\test.c(265,9): warning C4477: ¡°printf¡±: ¸ñÊ½×Ö·û´®¡°%s¡±ĞèÒªÀàĞÍ¡°char *¡±µÄ²ÎÊı£¬µ«¿É±ä²ÎÊı 1 ÓµÓĞÁËÀàĞÍ¡°int¡±
-E:\project\cpp\test\test.c(265,9): warning C4313: ¡°printf¡±: ¸ñÊ½×Ö·û´®ÖĞµÄ¡°%s¡±Óë¡°int¡±ÀàĞÍµÄ²ÎÊı 1 ³åÍ»
-E:\project\cpp\test\test.c(263,1): warning C4047: ¡°³õÊ¼»¯¡±:¡°char¡±Óë¡°char [12]¡±µÄ¼ä½Ó¼¶±ğ²»Í¬
-  test.vcxproj -> E:\project\cpp\cpp01-³õÊ¶CÓïÑÔ\x64\Debug\test.exe
+ï»¿  test.c
+E:\project\cpp\test\test.c(108,9): warning C4477: â€œprintfâ€: æ ¼å¼å­—ç¬¦ä¸²â€œ%dâ€éœ€è¦ç±»å‹â€œintâ€çš„å‚æ•°ï¼Œä½†å¯å˜å‚æ•° 1 æ‹¥æœ‰äº†ç±»å‹â€œsize_tâ€
+E:\project\cpp\test\test.c(108,9): message : è¯·è€ƒè™‘åœ¨æ ¼å¼å­—ç¬¦ä¸²ä¸­ä½¿ç”¨â€œ%zdâ€
+E:\project\cpp\test\test.c(113,1): warning C4267: â€œåˆå§‹åŒ–â€: ä»â€œsize_tâ€è½¬æ¢åˆ°â€œintâ€ï¼Œå¯èƒ½ä¸¢å¤±æ•°æ®
+E:\project\cpp\test\test.c(192,1): warning C4267: â€œåˆå§‹åŒ–â€: ä»â€œsize_tâ€è½¬æ¢åˆ°â€œintâ€ï¼Œå¯èƒ½ä¸¢å¤±æ•°æ®
+E:\project\cpp\test\test.c(240,12): warning C4047: â€œreturnâ€:â€œchar *â€ä¸â€œchar [1][20]â€çš„é—´æ¥çº§åˆ«ä¸åŒ
+E:\project\cpp\test\test.c(253,40): warning C4047: â€œ=â€:â€œchar (*)[20]â€ä¸â€œchar *â€çš„é—´æ¥çº§åˆ«ä¸åŒ
+E:\project\cpp\test\test.c(260,25): warning C4047: â€œå‡½æ•°â€:â€œconst char *â€ä¸â€œchar [4][10]â€çš„é—´æ¥çº§åˆ«ä¸åŒ
+E:\project\cpp\test\test.c(260,25): warning C4024: â€œstrlenâ€: å½¢å‚å’Œå®å‚ 1 çš„ç±»å‹ä¸åŒ
+E:\project\cpp\test\test.c(260,9): warning C4477: â€œprintfâ€: æ ¼å¼å­—ç¬¦ä¸²â€œ%dâ€éœ€è¦ç±»å‹â€œintâ€çš„å‚æ•°ï¼Œä½†å¯å˜å‚æ•° 1 æ‹¥æœ‰äº†ç±»å‹â€œsize_tâ€
+E:\project\cpp\test\test.c(260,9): message : è¯·è€ƒè™‘åœ¨æ ¼å¼å­—ç¬¦ä¸²ä¸­ä½¿ç”¨â€œ%zdâ€
+E:\project\cpp\test\test.c(265,9): warning C4477: â€œprintfâ€: æ ¼å¼å­—ç¬¦ä¸²â€œ%sâ€éœ€è¦ç±»å‹â€œchar *â€çš„å‚æ•°ï¼Œä½†å¯å˜å‚æ•° 1 æ‹¥æœ‰äº†ç±»å‹â€œintâ€
+E:\project\cpp\test\test.c(265,9): warning C4313: â€œprintfâ€: æ ¼å¼å­—ç¬¦ä¸²ä¸­çš„â€œ%sâ€ä¸â€œintâ€ç±»å‹çš„å‚æ•° 1 å†²çª
+E:\project\cpp\test\test.c(263,1): warning C4047: â€œåˆå§‹åŒ–â€:â€œcharâ€ä¸â€œchar [12]â€çš„é—´æ¥çº§åˆ«ä¸åŒ
+  test.vcxproj -> E:\project\cpp\cpp01-åˆè¯†Cè¯­è¨€\x64\Debug\test.exe

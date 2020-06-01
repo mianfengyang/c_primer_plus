@@ -1,6 +1,6 @@
-  cpp3_11.c
-E:\project\c_primer-plus\c_primer-plus-03\cpp3_11.c(11,1): warning C4305: ¡°³õÊ¼»¯¡±: ´Ó¡°double¡±µ½¡°float¡±½Ø¶Ï
+ï»¿  cpp3_11.c
+E:\project\c_primer-plus\c_primer-plus-03\cpp3_11.c(11,1): warning C4305: â€œåˆå§‹åŒ–â€: ä»Žâ€œdoubleâ€åˆ°â€œfloatâ€æˆªæ–­
   c_primer_plus-03.c
-  ÕýÔÚÉú³É´úÂë...
-E:\project\c_primer-plus\c_primer-plus-03\cpp3_11.c(12,1): warning C4305: ¡°³õÊ¼»¯¡±: ´Ó¡°double¡±µ½¡°float¡±½Ø¶Ï
+  æ­£åœ¨ç”Ÿæˆä»£ç ...
+E:\project\c_primer-plus\c_primer-plus-03\cpp3_11.c(12,1): warning C4305: â€œåˆå§‹åŒ–â€: ä»Žâ€œdoubleâ€åˆ°â€œfloatâ€æˆªæ–­
   c_primer-plus-03.vcxproj -> E:\project\c_primer-plus\c_primer-plus-01\Debug\c_primer-plus-03.exe

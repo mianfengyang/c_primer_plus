@@ -1,7 +1,7 @@
-  c_primer_plus-09.c
+ï»¿  c_primer_plus-09.c
   hotel.c
-  ÕýÔÚÉú³É´úÂë...
-D:\Users\frank\Documents\c_primer-plus\cpp09-º¯Êý\c_primer_plus-09.c(282,6): warning C4101: ¡°i¡±: Î´ÒýÓÃµÄ¾Ö²¿±äÁ¿
-D:\Users\frank\Documents\c_primer-plus\cpp09-º¯Êý\c_primer_plus-09.c(247): warning C4715: ¡°get_index¡±: ²»ÊÇËùÓÐµÄ¿Ø¼þÂ·¾¶¶¼·µ»ØÖµ
-  LINK : Ã»ÓÐÕÒµ½ D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\cpp09-º¯Êý.exe »òÉÏÒ»¸öÔöÁ¿Á´½ÓÃ»ÓÐÉú³ÉËü£»ÕýÔÚÖ´ÐÐÍêÈ«Á´½Ó
-  cpp09-º¯Êý.vcxproj -> D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\cpp09-º¯Êý.exe
+  æ­£åœ¨ç”Ÿæˆä»£ç ...
+D:\Users\frank\Documents\c_primer-plus\cpp09-å‡½æ•°\c_primer_plus-09.c(282,6): warning C4101: â€œiâ€: æœªå¼•ç”¨çš„å±€éƒ¨å˜é‡
+D:\Users\frank\Documents\c_primer-plus\cpp09-å‡½æ•°\c_primer_plus-09.c(247): warning C4715: â€œget_indexâ€: ä¸æ˜¯æ‰€æœ‰çš„æŽ§ä»¶è·¯å¾„éƒ½è¿”å›žå€¼
+  LINK : æ²¡æœ‰æ‰¾åˆ° D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\cpp09-å‡½æ•°.exe æˆ–ä¸Šä¸€ä¸ªå¢žé‡é“¾æŽ¥æ²¡æœ‰ç”Ÿæˆå®ƒï¼›æ­£åœ¨æ‰§è¡Œå®Œå…¨é“¾æŽ¥
+  cpp09-å‡½æ•°.vcxproj -> D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\cpp09-å‡½æ•°.exe

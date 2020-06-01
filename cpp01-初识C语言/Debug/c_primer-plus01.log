@@ -1,9 +1,9 @@
-  cpp1_1.c
+ï»¿  cpp1_1.c
   cpp1_13.c
   cpp1_2.c
   c_primer_plus-01.c
-D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\cpp1_13.c(11,18): warning C4244: ¡°=¡±: ´Ó¡°double¡±×ª»»µ½¡°float¡±£¬¿ÉÄÜ¶ªÊ§Êý¾Ý
-  ÕýÔÚÉú³É´úÂë...
-D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\c_primer_plus-01.c(14,9): warning C4013: ¡°cpp1_13¡±Î´¶¨Òå£»¼ÙÉèÍâ²¿·µ»Ø int
-  LINK : Ã»ÓÐÕÒµ½ D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\c_primer-plus-01.exe »òÉÏÒ»¸öÔöÁ¿Á´½ÓÃ»ÓÐÉú³ÉËü£»ÕýÔÚÖ´ÐÐÍêÈ«Á´½Ó
+D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\cpp1_13.c(11,18): warning C4244: â€œ=â€: ä»Žâ€œdoubleâ€è½¬æ¢åˆ°â€œfloatâ€ï¼Œå¯èƒ½ä¸¢å¤±æ•°æ®
+  æ­£åœ¨ç”Ÿæˆä»£ç ...
+D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\c_primer_plus-01.c(14,9): warning C4013: â€œcpp1_13â€æœªå®šä¹‰ï¼›å‡è®¾å¤–éƒ¨è¿”å›ž int
+  LINK : æ²¡æœ‰æ‰¾åˆ° D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\c_primer-plus-01.exe æˆ–ä¸Šä¸€ä¸ªå¢žé‡é“¾æŽ¥æ²¡æœ‰ç”Ÿæˆå®ƒï¼›æ­£åœ¨æ‰§è¡Œå®Œå…¨é“¾æŽ¥
   c_primer-plus01.vcxproj -> D:\Users\frank\Documents\c_primer-plus\c_primer-plus-01\Debug\c_primer-plus-01.exe

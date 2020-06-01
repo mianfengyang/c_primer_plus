@@ -1,39 +1,39 @@
-
+ï»¿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp01-³õÊ¶CÓïÑÔ", "c_primer-plus01.vcxproj", "{C0DB9A48-CAD6-4B20-B121-7A0B7AD9B71B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp01-åˆè¯†Cè¯­è¨€", "c_primer-plus01.vcxproj", "{C0DB9A48-CAD6-4B20-B121-7A0B7AD9B71B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö", "..\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö\cpp04-×Ö·û´®ºÍ¸ñÊ½»¯ÊäÈëÊä³ö.vcxproj", "{BA50A986-7027-4438-94F5-278181C19C81}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º", "..\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º\cpp04-å­—ç¬¦ä¸²å’Œæ ¼å¼åŒ–è¾“å…¥è¾“å‡º.vcxproj", "{BA50A986-7027-4438-94F5-278181C19C81}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp05-ÔËËã·û-±í´ïÊ½-Óï¾ä", "..\cpp05-ÔËËã·û-±í´ïÊ½-Óï¾ä\cpp05-ÔËËã·û-±í´ïÊ½-Óï¾ä.vcxproj", "{4760C6FC-FBB6-4280-9AE0-2DC5E101C079}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp05-è¿ç®—ç¬¦-è¡¨è¾¾å¼-è¯­å¥", "..\cpp05-è¿ç®—ç¬¦-è¡¨è¾¾å¼-è¯­å¥\cpp05-è¿ç®—ç¬¦-è¡¨è¾¾å¼-è¯­å¥.vcxproj", "{4760C6FC-FBB6-4280-9AE0-2DC5E101C079}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp06-c¿ØÖÆÓï¾ä-Ñ­»·", "..\cpp06-c¿ØÖÆÓï¾ä-Ñ­»·\cpp06-c¿ØÖÆÓï¾ä-Ñ­»·.vcxproj", "{DA7D9CE8-B48C-4C41-AB0E-5DCF7BE6FB6E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp06-cæŽ§åˆ¶è¯­å¥-å¾ªçŽ¯", "..\cpp06-cæŽ§åˆ¶è¯­å¥-å¾ªçŽ¯\cpp06-cæŽ§åˆ¶è¯­å¥-å¾ªçŽ¯.vcxproj", "{DA7D9CE8-B48C-4C41-AB0E-5DCF7BE6FB6E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp07-c¿ØÖÆÓï¾ä-·ÖÖ§ºÍÌø×ª", "..\cpp07-c¿ØÖÆÓï¾ä-·ÖÖ§ºÍÌø×ª\cpp07-c¿ØÖÆÓï¾ä-·ÖÖ§ºÍÌø×ª.vcxproj", "{FDF7362E-88A4-4628-9418-7E3F9EAC0B3F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp07-cæŽ§åˆ¶è¯­å¥-åˆ†æ”¯å’Œè·³è½¬", "..\cpp07-cæŽ§åˆ¶è¯­å¥-åˆ†æ”¯å’Œè·³è½¬\cpp07-cæŽ§åˆ¶è¯­å¥-åˆ†æ”¯å’Œè·³è½¬.vcxproj", "{FDF7362E-88A4-4628-9418-7E3F9EAC0B3F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤", "..\cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤\cpp08-×Ö·ûÊäÈëÊä³öºÍÊäÈëÑéÖ¤.vcxproj", "{460A826E-4DF6-4D7F-BE3A-6ACA17B1E4A1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯", "..\cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯\cpp08-å­—ç¬¦è¾“å…¥è¾“å‡ºå’Œè¾“å…¥éªŒè¯.vcxproj", "{460A826E-4DF6-4D7F-BE3A-6ACA17B1E4A1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp09-º¯Êý", "..\cpp09-º¯Êý\cpp09-º¯Êý.vcxproj", "{1595D2C5-2F38-41AD-B003-B1CC7CD1AC4D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp09-å‡½æ•°", "..\cpp09-å‡½æ•°\cpp09-å‡½æ•°.vcxproj", "{1595D2C5-2F38-41AD-B003-B1CC7CD1AC4D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp10-Êý×éºÍÖ¸Õë", "..\cpp10-Êý×éºÍÖ¸Õë\cpp10-Êý×éºÍÖ¸Õë.vcxproj", "{A64D697D-078A-4604-8482-C382CC569956}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp10-æ•°ç»„å’ŒæŒ‡é’ˆ", "..\cpp10-æ•°ç»„å’ŒæŒ‡é’ˆ\cpp10-æ•°ç»„å’ŒæŒ‡é’ˆ.vcxproj", "{A64D697D-078A-4604-8482-C382CC569956}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "..\test\test.vcxproj", "{A0C3981F-3217-40F1-B00D-83F3FA95A9F5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp11-×Ö·û´®ºÍ×Ö·û´®º¯Êý", "..\cpp11-×Ö·û´®ºÍ×Ö·û´®º¯Êý\cpp11-×Ö·û´®ºÍ×Ö·û´®º¯Êý.vcxproj", "{85E42182-CEBC-4C1D-A617-E229CE0CBE49}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp11-å­—ç¬¦ä¸²å’Œå­—ç¬¦ä¸²å‡½æ•°", "..\cpp11-å­—ç¬¦ä¸²å’Œå­—ç¬¦ä¸²å‡½æ•°\cpp11-å­—ç¬¦ä¸²å’Œå­—ç¬¦ä¸²å‡½æ•°.vcxproj", "{85E42182-CEBC-4C1D-A617-E229CE0CBE49}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp02-cÓïÑÔ¸ÅÊö", "..\cpp02-CÓïÑÔ¸ÅÊö\cpp02.vcxproj", "{1B2DE186-355E-404A-A860-B43E9C01E21A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp02-cè¯­è¨€æ¦‚è¿°", "..\cpp02-Cè¯­è¨€æ¦‚è¿°\cpp02.vcxproj", "{1B2DE186-355E-404A-A860-B43E9C01E21A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp03-Êý¾ÝºÍc", "..\cpp03-Êý¾ÝºÍC\cpp03.vcxproj", "{38708C33-6838-48B9-AD21-AF8FD962FA71}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp03-æ•°æ®å’Œc", "..\cpp03-æ•°æ®å’ŒC\cpp03.vcxproj", "{38708C33-6838-48B9-AD21-AF8FD962FA71}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp11-13-16", "..\cpp11-13-16\cpp11-13-16.vcxproj", "{104D2F87-2A33-4BDB-A4E8-6FE69F9D2948}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp11-13-14", "..\cpp11-13-14\commandline_program.vcxproj", "{ABB68045-8B1B-4B56-9593-DD687E746FF7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp12-´æ´¢Àà±ð-Á´½ÓºÍÄÚ´æ¹ÜÀí", "..\cpp12-´æ´¢Àà±ð-Á´½ÓºÍÄÚ´æ¹ÜÀí\cpp12-´æ´¢Àà±ð-Á´½ÓºÍÄÚ´æ¹ÜÀí.vcxproj", "{93860A1B-20DE-4641-907B-5BD6EB60286A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp12-å­˜å‚¨ç±»åˆ«-é“¾æŽ¥å’Œå†…å­˜ç®¡ç†", "..\cpp12-å­˜å‚¨ç±»åˆ«-é“¾æŽ¥å’Œå†…å­˜ç®¡ç†\cpp12-å­˜å‚¨ç±»åˆ«-é“¾æŽ¥å’Œå†…å­˜ç®¡ç†.vcxproj", "{93860A1B-20DE-4641-907B-5BD6EB60286A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp13-ÎÄ¼þÊäÈëÊä³ö", "..\cpp13-ÎÄ¼þÊäÈëÊä³ö\cpp13-ÎÄ¼þÊäÈëÊä³ö.vcxproj", "{B5F10861-E76E-402D-B5B5-FBFBD8755BC9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp13-æ–‡ä»¶è¾“å…¥è¾“å‡º", "..\cpp13-æ–‡ä»¶è¾“å…¥è¾“å‡º\cpp13-æ–‡ä»¶è¾“å…¥è¾“å‡º.vcxproj", "{B5F10861-E76E-402D-B5B5-FBFBD8755BC9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp13_11_2", "..\cpp13_11_2\cpp13_11_2.vcxproj", "{44A7F103-C4C1-4B11-8E41-D162D50D8684}"
 EndProject

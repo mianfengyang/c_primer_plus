@@ -1,8 +1,8 @@
-  cpp1_1.c
+ï»¿  cpp1_1.c
   cpp1_13.c
-E:\project\cpp\cpp01\cpp1_13.c(11,18): warning C4244: ¡°=¡±: ´Ó¡°double¡±×ª»»µ½¡°float¡±£¬¿ÉÄÜ¶ªÊ§Êý¾Ý
+E:\project\cpp\cpp01\cpp1_13.c(11,18): warning C4244: â€œ=â€: ä»Žâ€œdoubleâ€è½¬æ¢åˆ°â€œfloatâ€ï¼Œå¯èƒ½ä¸¢å¤±æ•°æ®
   cpp1_2.c
   c_primer_plus-01.c
-E:\project\cpp\cpp01\c_primer_plus-01.c(14,9): warning C4013: ¡°cpp1_13¡±Î´¶¨Òå£»¼ÙÉèÍâ²¿·µ»Ø int
-  ÕýÔÚÉú³É´úÂë...
+E:\project\cpp\cpp01\c_primer_plus-01.c(14,9): warning C4013: â€œcpp1_13â€æœªå®šä¹‰ï¼›å‡è®¾å¤–éƒ¨è¿”å›ž int
+  æ­£åœ¨ç”Ÿæˆä»£ç ...
   c_primer-plus01.vcxproj -> E:\project\cpp\cpp01\x64\Debug\cpp01.exe
